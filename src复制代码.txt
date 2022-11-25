@@ -17,3 +17,6 @@ char* StrCpy(char*src)
 	*(q+i) = '\0';
 	return q;
 }
+/**
+远程edit
+**/
